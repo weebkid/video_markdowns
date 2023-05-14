@@ -1,0 +1,30 @@
+Hey. Chances are that if you clicked on this video, you're a student who wants to get better grades. A student who performs better. If you are, then good, because I'd like to tell you about high-performance and low performance students. Just as a disclaimer, I won't be telling you 'do this' and 'do that'. Rather than just giving you orders, I want to tell you about who these types of students are, and what they're like. Hopefully you can take away something from this video that will help you achieve your goal- whatever it is. I'll be using a study as well as some personal experience to make these claims.
+
+For this video, I'll be going over this (1) study. Computer Science is a subject we're all familiar with. It's famous for being pretty hard. The study goes over the differences between high- and low performers in CS1. 
+
+In the survey done, students from both groups report similar study habits, but there are some differences. Most significantly, self-regulation habits like attending lectures or understanding all the code that they submit is performed more by high-performing students. These habits require intention. They intentionally attend lectures, they intentionally try to understand the work they do. I find these habits different from normal habits because they aren't 'studying'. Going to a lecture is a personal decision, and trying to understand and learn from your work is also a personal decision. The paper states that the willingness to do these things may be related to motivation (which I think makes a lot of sense), but those who went out of their way to do these things, regardless of reason, ended up doing better in the course.
+
+Let's contrast this behavior done by high-performing students to those done by low performing students. One example of a low-performing student is someone who skips classes often. I'm a high-school student in Jamaica, so in a given school day all the sessions are occupied for each student. You can't forget that you have class. The people who nonchalantly skip class tend to be low performing. They made the personal decision to skip their classes to do whatever it is they wanted to do instead. I know that you might be thinking that it's different for high-schoolers, since we're expected to go to class, so let me tell you about those who actually attend class and perform poorly.
+
+In class, these low performing students don't pay attention. It's different for everyone. Talking to friends, scribbling in their books, and going to sleep are common. Some people (like me in physics) fall into a daze looking at the board. In my defense, class is boring a lot of the time, but it doesn't excuse the lack of commitment. Recently, what I do is that if I can't focus or learn anything in class, I'll go home and try and learn the topic myself. It's very important to make the personal decision to learn, because I want to do well and boring classes aren't an excuse.
+
+
+
+Part 2
+
+This section will be a bit more... abstract. I know my video isn't the best, or some holy grail able to give you whatever you wish for, but what I can do is provide a more unique perspective. There's a good chance you've seen videos titled '10 habits of a high-performance students" or something similar, and they talk about studying and sleeping, stuff like that. I'm looking to provide something different. Have you ever thought about anything else apart from studying that would make you different from high-performance students? I definitely don't have facts to back it up, but I can tell you about my personal experiences and some things I learned from interviewing and interacting with high-performing students. This part should feel more natural because I won't be blatantly reading off a script like before. This is my personal experience, but I think it'll provide you with insight into who these types of people are.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 - Soohyun Nam Liao, Kartik Shah, William G. Griswold, and Leo Porter.2021. A Quantitative Analysis of Study Habits Among Lower- and Higher-Performing Students in CS1. In26th ACM Conference on Innovation andTechnology in Computer Science Education V. 1 (ITiCSE 2021), June 26-July1, 2021, Virtual Event, Germany.ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3430665.3456350
