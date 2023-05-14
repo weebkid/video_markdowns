@@ -21,6 +21,6 @@ Note: For normal teens, highschool is relatively easy to pass. When someone is p
 * Addictions (video games, TikTok, etc)
 
 
-[study]: www.google.com
+[study]: https://dl.acm.org/doi/10.1145/3430665.3456350
 
 
