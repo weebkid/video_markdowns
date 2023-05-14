@@ -12,9 +12,8 @@ _Part 2_: Who ***are*** high performance students
 * Goals and motivation (of high-performance students)
 ---
 ### Low performing habits  
-Note: For normal teens, highschool is relatively easy to pass. When someone is performing low, it's often due to bad habits.
- Some people are just academically inclined. It's not a disability though. If you can't do well in school, find something you
- can perform well in
+Note: For normal teens, highschool is relatively easy to pass. When someone is performing low, it's often due to bad habits. Some  people just aren't academically inclined. It's not a disability though. If you can't do well in school, find something you
+ can perform well in.
  
 * Skipping Class
 * Not paying attention in class
