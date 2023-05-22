@@ -38,7 +38,7 @@ Deep work is an essential tool in consistent, high performance in any field. Esp
 
 Just making time isn't enough to be in a state of deep work. Deep work requires focus. A lot of the times we say that we're focused on a task, our focus is shallow. For example, writing an essay and you're checking your phone notifications. This small, yet constant action of checking notifications fragments our attention and the product delivered (the essay) takes longer to complete and it's quality is lowered. 
 
-There are many sources which back up this claim, but if you are interested, I suggest reading the book **__Deep Work by Cal Newport_**
+There are many sources which back up this claim, but if you are interested, I suggest reading the book **_Deep Work_** by **_Cal Newport_**
 
 [study]: https://dl.acm.org/doi/10.1145/3430665.3456350
 
