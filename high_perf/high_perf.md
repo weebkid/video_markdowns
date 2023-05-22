@@ -31,9 +31,14 @@ This refers to the finding that people are a product of their environment. Your 
 
 These new stimuli make it different from school, where we have times when our sole attention is to be given to the teacher. At home, we have many choices of what to do, and making the choice to do school work often isn't prioritized. However, high-performance students have the habit of doing school work at home. _Why is that_?
 
+---
+### About Deep Work
+Deep work is an essential tool in consistent, high performance in any field. Especially for students like us, whose job is to learn, we need to make time to commit not only to learning, but to do other tasks like assignments, group work, and projects.
 
 
+Just making time isn't enough to be in a state of deep work. Deep work requires focus. A lot of the times we say that we're focused on a task, our focus is shallow. For example, writing an essay and you're checking your phone notifications. This small, yet constant action of checking notifications fragments our attention and the product delivered (the essay) takes longer to complete and it's quality is lowered. 
+
+There are many sources which back up this claim, but if you are interested, I suggest reading the book **__Deep Work by Cal Newport_**
 
 [study]: https://dl.acm.org/doi/10.1145/3430665.3456350
-
 
